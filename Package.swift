@@ -1,5 +1,5 @@
 import PackageDescription
-// comment 1
+// feature 2
 let package = Package(
     name: "MyLibrary",
     exclude: ["DirectoryToExclude"]
