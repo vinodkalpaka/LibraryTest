@@ -4,3 +4,6 @@ public func hiThere() -> String {
     // fourth change
     return "Hello Integraa from the library! Rename View"
 }
+public func fromDevelop() -> String {
+    return "from develop"
+}
