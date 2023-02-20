@@ -7,3 +7,6 @@ public func hiThere() -> String {
 public func fromDevelop() -> String {
     return "from develop"
 }
+public func fromMaster2() -> String {
+    return "from master2"
+}
